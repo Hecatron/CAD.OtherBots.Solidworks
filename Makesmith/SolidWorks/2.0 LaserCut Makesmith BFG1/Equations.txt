@@ -1,0 +1,27 @@
+﻿"baseplate-width" = 290mm
+"baseplate-height" = 360mm
+"sideplate-height" = 390mm
+
+"xplate-width" = 100mm
+"xplate-height" = 200mm
+
+"yplate-width" = 100mm
+"yplate-height" = 200mm
+
+"linear-bar-dia" = 8mm ' Diameter of the metal slide bar used on the X Axis
+"linear-bar-bearingouter-dia" = 15mm ' Diameter of the outer side of the bearing
+"linear-thread-dia" = 8mm ' Diameter of the metal threaded rod used on the X Axis
+"linear-thread-nut-dia" = 12.8mm ' Outer Diameter of the Nut used on the X Axis, typically M8 = 10mm
+
+"Note Bracket metal thickness measured as 3.1mm, stepper width measured as 42.5, spindle height"= (42.5 / 2) + 3.1
+"spindle-thread-rbearing-diameter" = 22mm ' Outer diameter of the rotational bearing
+"spindle-thread-height" = 30.4mm ' Height from the base to the spindle for the stepper motor / Servo
+"motor-slot-width" = 4mm
+
+"plate-supporttab-gapwidth" = 40mm
+"plate-supporttab-gapheight" = 20mm
+"tab-width-small" = 20mm ' Width of the small version of the Tab
+"tab-width-large" = 30mm ' Width of the large version of the Tab
+
+"material-thickness" = 9mm
+"acrylic-thickness" = 2mm
