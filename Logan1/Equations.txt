@@ -1,0 +1,3 @@
+﻿"baseplate-width" = 290mm
+"baseplate-height" = 360mm
+"wood-thickness" = 9mm
