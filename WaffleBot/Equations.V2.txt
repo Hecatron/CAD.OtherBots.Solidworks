@@ -1,0 +1,3 @@
+﻿"base-xwidth" = 500mm
+"base-yheight" = 500mm
+"base-zdepth" = 500mm
